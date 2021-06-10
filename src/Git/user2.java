@@ -7,6 +7,9 @@ public class user2 {
 		
 		System.out.println("This is saurabh gupta in base code from user2 classs");
 		
+		
+		System.out.println("This is Arthitect 1  changes");
+		System.out.println("This is Arthitect 2  changes");
 
 	}
 
