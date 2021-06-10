@@ -12,5 +12,9 @@ public class user3 {
 	System.out.println("this is Architect 1  class user 3");
 	System.out.println("this is Architect 2  class user 3");
 	System.out.println("this is Architect 3  class user 3");
+	
+	System.out.println("this is Architect american  class user 3");
+	System.out.println("this is Architect american class user 3");
+	System.out.println("this is Architect american class user 3");
 	}
 }

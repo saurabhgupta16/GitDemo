@@ -10,6 +10,8 @@ public class user2 {
 		
 		System.out.println("This is Arthitect 1  changes");
 		System.out.println("This is Arthitect 2  changes");
+		System.out.println("This is Arthitect Americna  changes");
+		System.out.println("This is Arthitect American  changes");
 
 	}
 
