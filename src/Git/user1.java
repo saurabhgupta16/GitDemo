@@ -9,7 +9,7 @@ public class user1 {
 		System.out.println("this is saurabh gupta in base code code from user 1 class");
 		user3 u3=new user3();
 		u3.getData();
-		
+		System.out.println("this is person x from clone  from user 1 class");	
 	}
 	
 
