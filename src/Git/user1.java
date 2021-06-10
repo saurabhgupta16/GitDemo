@@ -6,7 +6,11 @@ public class user1 {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("this is saurabh new code.");
+		System.out.println("this is saurabh gupta in base code code from user 1 class");
+		user3 u3=new user3();
+		u3.getData();
+		
 	}
+	
 
 }
